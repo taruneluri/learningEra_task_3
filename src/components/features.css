@@ -1,0 +1,28 @@
+.features-div{
+    height: 700px;
+    width: 100%;
+}
+.features-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    font-weight: bold;
+}
+.features-space{
+    height: 100px;
+    width: 100%;
+}
+.features-1{
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.features-1 div{
+    height: 100%;
+    width: 20%;
+}
+.features-icon{
+    height: 65%;
+}

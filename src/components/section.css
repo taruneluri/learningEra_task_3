@@ -1,0 +1,49 @@
+.welcome-div{
+    height: 500px;
+    width: 100%;
+    background: rgb(61, 102, 227);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head1,.head2{
+    font-size: 4.5em;
+    font-weight: bold;
+    color: white;
+    line-height: 70px;
+}
+.head3{
+    color: white;
+    font-size: 1.2em;
+}
+.welcome-div-2{
+    height: 250px;
+    width: 100%;
+    background: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.welcome-div-2 div{
+    height: 100%;
+    width: 20%;
+
+}
+.icons{
+    margin-top: 50px;
+    height: 25%;
+    width: auto;
+}
+.regstu-1{
+    font-weight: 100;
+    line-height: 1px;
+    font-size: 2.5em;
+}
+
+.regstu-2{
+    font-weight: bold;
+    font-family: arial;
+    font-size: 1em;
+    line-height: 1px;
+}
